@@ -1,2 +1,1 @@
-# GS1Slovakia
- README
+# GS1 Slovakia
